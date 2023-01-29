@@ -16,8 +16,4 @@ Here are some ideas to get you started:
 -->
 
  - 😀 I am Yasaman Shokri 
- - 🖥️ I'm currently a django backend developer
- - 🔭 I’m currently working on backend of a Q&A platform
- - 🌱 I'm also interested in learning frontend development and become a
-   full stack web developer 
  - 📧 You can reach me at shokri.yasaman@yahoo.com
